@@ -1,0 +1,10 @@
+Package: com.iosgods.8ballpool
+Name: 8ball pool
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: DemiGod
+Author: DemiGod
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 136
