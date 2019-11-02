@@ -1,0 +1,11 @@
+Package: com.atteihh.github.safariplus
+Description: عند الضغط مطولا على احد عناصر مركز التحكم سوف تنتقل الى اعدادات هذا العنصر.
+Version: 1.7.6
+Section: Supports IOS12.x
+Maintainer: atteih <atteihh@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: safariplus
+Author: opa334
+Sponsor: atteih <https://atteihh.github.io/a/>
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
